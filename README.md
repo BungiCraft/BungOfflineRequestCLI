@@ -4,5 +4,8 @@
 * Just add path to the exe in ur enviroment variables like this! (the file can be placed anywhere, u choose :3)
 * ![IMG](pics/variable.png)
 
+## Requires
+* This [Plugin](https://github.com/BungiCraft/BungOfflineRequest)
+
 ## Author
 * BungiCraft - Meow :3c
