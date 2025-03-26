@@ -1,6 +1,6 @@
 # BungOfflineRequestCLI
 
-A simple CLI tool for the BungOfflineRequest plugin.
+A simple CLI tool for the [BungOfflineRequest](https://github.com/BungiCraft/BungOfflineRequest) plugin.
 
 Enables you to do this!
 
